@@ -1,4 +1,4 @@
-# 👋 Hello, I'm yassine kmantar!
+# 👋 Hello, I'm Yassine Kmantar!
 
 Welcome to my GitHub profile! I'm a passionate software developer with a focus on building efficient, scalable, and meaningful applications. Whether it's web development, game design, or system programming — I'm always exploring new tech and pushing boundaries.
 
@@ -24,7 +24,7 @@ Here are some highlights of what I've been working on:
 
 ## 📫 Contact
 
-- Email: [yassinekmantar@gmail.com]  
+- Email: yassinekmantar@gmail.com 
 - LinkedIn: [yassine kmantar](https://www.linkedin.com/in/yassine-kmantar-51725935a/) 
 
 ---
