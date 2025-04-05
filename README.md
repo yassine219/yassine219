@@ -24,8 +24,8 @@ Here are some highlights of what I've been working on:
 
 ## 📫 Contact
 
-- Email: yassinekmantar@gmail.com  
-- LinkedIn: yassine kmantar(https://www.linkedin.com/in/yassine-kmantar-51725935a/) 
+- Email: [yassinekmantar@gmail.com]  
+- LinkedIn: [yassine kmantar](https://www.linkedin.com/in/yassine-kmantar-51725935a/) 
 
 ---
 
